@@ -1,0 +1,35 @@
+.posts{
+	height:auto;
+	width:100%;
+	margin-top: 2vh;
+	box-shadow: 0 0 10px black;
+	padding:0 0 2vh 0;
+	border-radius: 5px;
+	overflow: hidden;
+	cursor: pointer;
+}
+.imageOfPost{
+	height:55vh;
+	width:100%;
+
+}
+.metaDescription{
+	width:80%;
+	margin-top: 1vh;
+	margin-left:50%;
+	transform: translate(-50%,0);
+	padding:2vh 2vw 2vh 2vw;
+	text-align: center;
+	font-family: verdana;
+	text-align: justify;
+}
+.ending{
+	height:.25vh;
+	width:80%;
+	margin-bottom: 2vh;
+	margin-left:50%;
+	transform: translate(-50%,0);
+	background:white;
+	border-radius:6px;
+
+}
